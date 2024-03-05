@@ -1,6 +1,7 @@
 document.querySelector('button').addEventListener('click',getFetch)
 
 
+
 function getFetch() {
   const choice = document.querySelector('input').value
   console.log(choice)
