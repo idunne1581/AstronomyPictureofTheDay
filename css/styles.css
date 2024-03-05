@@ -32,6 +32,6 @@ p {
 
 button {
     margin: 10px auto;
-    border: solid black;
-    background-color: rgb(92, 83, 125);
+    border: solid black 1px;
+    background-color: rgb(131, 122, 163);
 }
